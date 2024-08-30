@@ -1,6 +1,6 @@
 var button = document.createElement("p");
 
-button.innerText = "VOIR l'ANIME ONE PIECE >>";
+button.innerText = "Voir l'Anime One Piece >>";
 
 button.className = "btn1";
 
