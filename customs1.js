@@ -6,6 +6,6 @@ button.className = "btn1";
 
 button.addEventListener("click", function() {
   
-  window.open("https://fr.anime-sama.lol/26-one-piece.html", "_self");
+  window.open("https://v5.animesama.biz/26-one-piece.html", "_blank");
 });
 document.getElementById("btncnt1").appendChild(button);
